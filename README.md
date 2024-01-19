@@ -1,8 +1,10 @@
 # LojaGames
 OBS: Para abrir o projeto
 1- basta criar uma pasta na área de trablho com qualquer nome de sua escolha.
- 2- em pesquisar dentro da pasta digite [ CMD ] irá abrir o promp de comando do windows.
-  3- em seguida digite  npm install, isso irá instalr a biblioteca NODE.
+2- em pesquisar dentro da pasta digite [ CMD ] irá abrir o promp de comando do windows.
+3- em seguida digite  npm install, isso irá instalr a biblioteca NODE.
+4- depois de instalada digite [ code . ] isso irá arir o visualcode studio.
+5 - dentro do terminal do Visual Code digite, json-server --watch dbgames.json
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
