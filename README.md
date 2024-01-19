@@ -6,7 +6,7 @@ OBS: Para abrir o projeto
 4- depois de instalada digite [ code . ] isso irá arir o visualcode studio.
 5 - dentro do terminal do Visual Code digite, [ json-server --watch dbgames.json ]    { <-esse comando a esquerda irá deixar o servidor json-serve online.-> http://localhost:3000/produtos}
 6- para abrir o projeto agora abra um novo terminal dentro do Visual Code / volte ao CMD do windows e digite [ ng serve ], isso vai gerar um outro endereço de ip:  http://localhost:4200/
-PRONTO SEU PROJETO IRÁ ABRIR, SE HOUVER ALGUM PROBLEMA VERIFIQUE SE SUA VESÃO DO ANGULAR CLI É A 15.0.4     .
+PRONTO O PROJETO IRÁ ABRIR, SE HOUVER ALGUM PROBLEMA VERIFIQUE SE SUA VESÃO DO ANGULAR CLI É A 15.0.4     .
 CASO PRESICE ATUALIZAR BASTA DIGITAR DENTRO DO TERMIANL DO VS CODE O COMANDO npm install -g @angular/cli@15.0.4     .
 
 
