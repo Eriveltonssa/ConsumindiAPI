@@ -2,9 +2,10 @@
 OBS: Para abrir o projeto
 1- basta criar uma pasta na área de trablho com qualquer nome de sua escolha.
 2- em pesquisar dentro da pasta digite [ CMD ] irá abrir o promp de comando do windows.
-3- em seguida digite  npm install, isso irá instalr a biblioteca NODE.
+3- em seguida digite  npm install, isso irá instalar a biblioteca NODE.
 4- depois de instalada digite [ code . ] isso irá arir o visualcode studio.
-5 - dentro do terminal do Visual Code digite, json-server --watch dbgames.json
+5 - dentro do terminal do Visual Code digite, json-server --watch dbgames.json    { <-esse comando a esquerda irá deixar o servidor json-serve online.-> http://localhost:3000/produtos}
+6- para abrir o projeto agora abra um novo terminal dentro do Visual Code / volte ao CMD do windows e digite ng serve
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
