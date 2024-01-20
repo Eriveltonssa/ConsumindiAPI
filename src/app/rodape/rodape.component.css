@@ -1,7 +1,8 @@
 footer{
-    background: black;
+    background-color: var(--color-black);
     color: white;
     text-align: center;
     height: 100px;
-    padding-top: 30px;
+    padding-top: 10vh;
+    
 }

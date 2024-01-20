@@ -15,3 +15,10 @@ span{
     text-decoration: none;
     color: white;
   }
+  .menu{
+    background-color: var( --bkColor);
+    border-bottom: 1px solid var(--color-black);
+  }
+ .menu a{
+    color: var(--color-black);
+  }

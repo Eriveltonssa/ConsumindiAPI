@@ -1,5 +1,7 @@
 main {
   min-height: 500px;
+  margin-bottom: 10vh;
+  
 }
 
 #section-banner {
@@ -30,7 +32,10 @@ mat-grid-list {
 
   display: flex;
   overflow-y: auto;
-
+  border: 1px solid red;
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
 }
 
 mat-grid-tile {
@@ -97,4 +102,9 @@ mat-card img {
 .carousel-item img {
   background-size: cover;
   background-position: center;
+}
+
+.titulo{
+  margin-top: 5vh;
+  margin-bottom: 5vh;
 }
