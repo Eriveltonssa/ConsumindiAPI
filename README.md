@@ -1,4 +1,12 @@
 # LojaGames
+1-Basta criar uma pasta na área de trabalho com qualquer nome de sua escolha.
+2-Na barra de pesquisa dentro da pasta, digite [CMD], isso abrirá o prompt de comando do Windows.
+3-Em seguida, digite npm install, isso instalará a biblioteca NODE.
+4-Depois de instalada, digite [code .], isso abrirá o Visual Studio Code.
+5-Dentro do terminal do Visual Studio Code, digite json-server --watch dbgames.json. Esse comando à esquerda deixará o servidor json-server online em http://localhost:3000/produtos.
+6-Para abrir o projeto, abra um novo terminal dentro do Visual Studio Code ou volte ao CMD do Windows e digite ng serve. Isso gerará outro endereço IP: http://localhost:4200/.
+PRONTO, O PROJETO SERÁ ABERTO. SE HOUVER ALGUM PROBLEMA, VERIFIQUE SE SUA VERSÃO DO ANGULAR CLI É 15.0.4. CASO PRECISE ATUALIZAR, DIGITE DENTRO DO TERMINAL DO VS CODE O COMANDO npm install -g @angular/cli@15.0.4.    .
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
